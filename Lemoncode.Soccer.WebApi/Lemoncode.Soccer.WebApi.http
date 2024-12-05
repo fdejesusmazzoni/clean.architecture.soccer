@@ -1,0 +1,6 @@
+@Lemoncode.Soccer.WebApi_HostAddress = http://localhost:5281
+
+GET {{Lemoncode.Soccer.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
